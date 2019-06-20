@@ -1,2 +1,2 @@
 # Pricingstrategy
-Pricing strategy
+Business wisdom holds that the core purpose of a firm’s marketing activities is to create value for the customers it chooses to serve. Three of the four elements of the marketing mix (the four Ps) are central to this purpose: the product being offered to customers,a promotion (how the firm communicates to potential customers about that product), and place (how and where the firm makes that product available to customers).
